@@ -1,4 +1,4 @@
-Feature: Verifying the Transaction functionality
+Feature: Verifying the Login functionality
 
   Scenario: Verify that the login functionality
     Given login form is displayed
