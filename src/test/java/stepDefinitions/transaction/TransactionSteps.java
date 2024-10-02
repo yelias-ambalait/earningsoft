@@ -72,4 +72,10 @@ public class TransactionSteps {
     @Then("Check that the billing module is displayed")
     public void checkThatTheBillingModuleIsDisplayed() {
     }
+
+     @Then("tes")
+    public void test() {
+    }
 }
+
+// updated
